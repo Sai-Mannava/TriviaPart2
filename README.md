@@ -5,7 +5,7 @@ Submitted by: **Sai Mannava**
 
 **Triva Part 2** is an app that uses Postman to access the Trivia API and issue network requests 
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
